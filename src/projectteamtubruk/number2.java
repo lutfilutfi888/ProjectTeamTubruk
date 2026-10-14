@@ -12,3 +12,4 @@ public class number2 {
 public static void numb2(){
     System.out.printIn("Number2");
 }
+}
