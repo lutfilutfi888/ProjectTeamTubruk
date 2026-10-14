@@ -9,5 +9,7 @@ package projectteamtubruk;
  * @author d.lutfizzn
  */
 public class number3 {
-    
+    public static void biji3(){
+        System.out.println("Number3");
+    }
 }
